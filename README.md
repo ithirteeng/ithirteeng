@@ -29,11 +29,10 @@ Student of Higher IT School and Android developer :3</h2>
 [<img  alt="Swift" height="25px" src="https://img.shields.io/badge/-Swift-F04934.svg?logo=swift&style=for-the-badge&logoColor=white" />][swift]
 [<img  alt="Xcode" height="25px" src="https://img.shields.io/badge/-Xcode-2964D6.svg?logo=xcode&style=for-the-badge&logoColor=white" />][xcode]
 [<img  alt="Figma" height="25px" src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=for-the-badge&logoColor=white" />][figma]
-
 [<img  alt="Node.js" height="25px" src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=for-the-badge&logoColor=white" />][nodejs]
 [<img  alt="Postman" height="25px" src="https://img.shields.io/badge/-Postman-FD6F36.svg?logo=postman&style=for-the-badge&logoColor=white"/>][postman]
 
-
+### Contributions 🐍
 ![shake gif](https://github.com/ithirteeng/ithirteeng/blob/output/github-contribution-grid-snake-dark.svg)
 
 
