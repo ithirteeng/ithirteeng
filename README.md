@@ -34,7 +34,7 @@ Student of Higher IT School and Android developer :3</h2>
 
 ### Contributions 🐍
 ![shake gif](https://raw.githubusercontent.com/ithirteeng/ithirteeng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+![light snake gif](https://raw.githubusercontent.com/ithirteeng/ithirteeng/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [myvk]: https://vk.com/ldv_13
 [telegram]: https://t.me/ithirteeng
