@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, my name is Ivan!🤘🏽 <br/> <br/>
-I'm student of Higher IT School and Android Developer </h2>
+Student of Higher IT School and Android Developer </h2>
 
 - 🚩 I'm from Tomsk, Russia 🇷🇺
 - 📚 I'm currently learning Kotlin, Java and web 
