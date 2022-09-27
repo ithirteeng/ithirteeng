@@ -1,4 +1,4 @@
-<h2 align="center">Hi everybody, my name is Ivan!🤘🏽 <br/> <br/>
+<h2 align="center">Hello everybody, my name is Ivan!🤘🏽 <br/> <br/>
 Student of Higher IT School and Android developer :3</h2>
 
 ### Some information about me:
