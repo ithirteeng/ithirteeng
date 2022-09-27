@@ -33,7 +33,7 @@ Student of Higher IT School and Android developer :3</h2>
 [<img  alt="Node.js" height="25px" src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=for-the-badge&logoColor=white" />][nodejs]
 [<img  alt="Postman" height="25px" src="https://img.shields.io/badge/-Postman-FD6F36.svg?logo=postman&style=for-the-badge&logoColor=white"/>][postman]
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ithirteeng/ithirteeng/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 [myvk]: https://vk.com/ldv_13
