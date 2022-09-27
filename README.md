@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2 align="center">Hi there, my name is Ivan!🤘🏽 <br/> <br/>
+I'm student of Higher IT School and Android Developer </h2>
 
-<!--
-**ithirteeng/ithirteeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚩 I'm from Tomsk, Russia 🇷🇺
+- 📚 I'm currently learning Kotlin, Java and web 
+- ❣️ Keep enjoying of studying and exploring Mobile Development
+- 🛹 I'm Trying to come back in extreme sports
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can reach me in:
+- <a href="https://t.me/ithirteeng" target="_blank">Telegram</a> 
+- <a href="https://vk.com/ldv_13" target="_blank">VK</a>
+- <a href="https://www.instagram.com/walliemann" target="_blank">Intagram</a> 
