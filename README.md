@@ -33,7 +33,7 @@ Student of Higher IT School and Android developer :3</h2>
 [<img  alt="Postman" height="25px" src="https://img.shields.io/badge/-Postman-FD6F36.svg?logo=postman&style=for-the-badge&logoColor=white"/>][postman]
 
 ### Contributions 🐍
-![shake gif](https://raw.githubusercontent.com/ithirteeng/ithirteeng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![shake gif](https://raw.githubusercontent.com/ithirteeng/ithirteeng/output/ocena.svg#gh-dark-mode-only)
 ![light snake gif](https://raw.githubusercontent.com/ithirteeng/ithirteeng/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [myvk]: https://vk.com/ldv_13
