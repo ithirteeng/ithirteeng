@@ -1,8 +1,8 @@
 <h2 align="center">Hello everybody, my name is Ivan!🤘🏽 <br/> <br/>
-Student of Higher IT School and junior Android developer :3</h2>
+Yandex Alice Developer :3</h2>
 
 ### Some information about me 🧐
-- I'm from Miass, Russia, but in the next few years I'll be in Tomsk
+- I'm from Miass, Russia, but in the next few years I'll be in Moscow
 - Keep enjoying of studying and exploring Mobile Development and Backend
 - I don't give up trying to return to extreme sports
 - Getting high from playing guitar, harp and balalaika 😳
