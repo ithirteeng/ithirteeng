@@ -1,4 +1,4 @@
-<h2 align="center">Hiii! I'm Ivan :3 <br/><br/>
+<h2 align="center">Hiii! I'm Vanya :3 <br/><br/>
 Yandex Alice Developer </h2>
 
 ### My foundations: 🧐
