@@ -2,20 +2,17 @@
 Yandex Alice Developer </h2>
 
 ### My foundations: 🧐
-- Deeply love with the sunflowers 🌻
+- Deeply love sunflowers 🌻
 - Don't give up trying to return to extreme sports 🌊
 - Getting high from the beauty of existence ❤️
-- Love the life you live, live the life you love ☮️
 
 ---
 
-### You can reach me in:
+### U can reach me in:
 [<img alt="Telegram" height="25px" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
 [<img alt="Instagram" height="25px" src="https://img.shields.io/badge/-Instagram-8A1868?style=for-the-badge&logo=instagram&logoColor=white"/>][intagram]
 
----
-
-### My Tech Stack:
+### Tech Stack:
 
 #### 🧠 Skills
 [<img alt="Android" height="25px" src="https://img.shields.io/badge/-Android-3DDC84.svg?logo=android&style=for-the-badge&logoColor=white"/>][android]
