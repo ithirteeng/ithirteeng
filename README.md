@@ -1,16 +1,14 @@
-<h2 align="center">Hello everybody, my name is Ivan!🤘🏽 <br/> <br/>
-Yandex Alice Developer :3</h2>
+<h2 align="center">Hiii! I'm Ivan :3 <br/> <br/>
+Yandex Alice Developer </h2>
 
-### Some information about me 🧐
-- I'm from Miass, Russia, but in the next few years I'll be in Moscow
-- Keep enjoying of studying and exploring Mobile Development and Backend
-- I don't give up trying to return to extreme sports
-- Getting high from playing guitar, harp and balalaika 😳
+### My foundation 🧐
+- Deeply love with the sunflowers 🌻
+- Don't give up trying to return to extreme sports 🌊
+- Getting high from the beauty of existence ❤️
+- Love the life you live, live the life you love ☮️
 
 ### You can reach me in:
 [<img alt="my_telegram" height="25px" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram"/>][telegram]
-[<img alt="my_discord" height="25px" src="https://img.shields.io/badge/-discord-743CBC?style=for-the-badge&logo=discord&logoColor=white"/>][discord] 
-[<img alt="my_vk" height="25px" src="https://img.shields.io/badge/-VK-0077ff?style=for-the-badge&logo=vk"/>][myvk]
 [<img alt="my_instagram" height="25px" src="https://img.shields.io/badge/-Instagram-8A1868?style=for-the-badge&logo=Instagram"/>][intagram] 
 
 ### Technology stack:
@@ -36,10 +34,8 @@ Yandex Alice Developer :3</h2>
 ![shake gif](https://raw.githubusercontent.com/ithirteeng/ithirteeng/output/ocena.svg#gh-dark-mode-only)
 ![light snake gif](https://raw.githubusercontent.com/ithirteeng/ithirteeng/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[myvk]: https://vk.com/ldv_13
 [telegram]: https://t.me/ithirteeng
 [intagram]: https://www.instagram.com/walliemann
-[discord]: https://discordapp.com/users/ithirteeng#5078
 
 [html5]: https://dev.w3.org/html5/html-author
 [css3]: https://www.w3.org/Style/CSS/specs.en.html
