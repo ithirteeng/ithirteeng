@@ -1,7 +1,7 @@
 <h2 align="center">Hiii! I'm Vanya :3 <br/><br/>
 Yandex Alice Developer </h2>
 
-### My foundations: 🧐
+### 🧐
 - Deeply love sunflowers 🌻
 - Don't give up trying to return to extreme sports 🌊
 - Getting high from the beauty of existence ❤️
